@@ -1,4 +1,4 @@
-# AI-Powered-Company-Evaluation-and-Stock-Trend-Analysis
+# "InvestiGate"-AI-Powered-Company-Evaluation-and-Stock-Trend-Analysis
 Discover 'InvestiGate': Seamlessly fetching Google News data, it swiftly analyzes company growth trends, providing insightful investment guidance. Empowering decisions with real-time analytics, it's your go-to for informed investing, blending data precision and swift insights.
 
 
@@ -17,8 +17,8 @@ Discover 'InvestiGate': Seamlessly fetching Google News data, it swiftly analyze
 ### Feel free to contact for any query.
 
 #### Library used:
-* Serpapi (For webscrapping)
+* SerpApi (For webscrapping)
 * yahooquery (allows a user to retrieve nearly all the data visible via the Yahoo Finance front-end)
 * Streamlit (For application)
-* OpenAi (for generating the conclusion based on the collected data)
+* OpenAI (for generating the conclusion based on the collected data)
 
