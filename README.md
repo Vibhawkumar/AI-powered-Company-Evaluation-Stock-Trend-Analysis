@@ -4,8 +4,8 @@ Discover 'InvestiGate': Seamlessly fetching Google News data, it swiftly analyze
 
 ### Steps to run the code:
 * Download the both finance.py and stream.py file
-* Go to serpapi, create account and then generate an API Key [Link](https://serpapi.com/manage-api-key)
-* Go to OpenAi, create accound if you don't have and then generate an API key [Link](https://platform.openai.com/api-keys)
+* Go to SerpApi, create account and then generate an API Key [Link](https://serpapi.com/manage-api-key)
+* Go to OpenAI, create accound if you don't have and then generate an API key [Link](https://platform.openai.com/api-keys)
 * Now Enter the respective api keys in the finance.py file
 * Save and run stream.py
 * You'll get "streamlit run C:\folder_name\stream.py [ARGUMENTS] " as output in terminal section
